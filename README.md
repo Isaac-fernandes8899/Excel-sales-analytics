@@ -20,8 +20,7 @@ This repository contains detailed sales and financial performance reports for **
   - **Top Markets**: India led with **161.3M INR** in sales, followed by the USA (**87.8M INR**) and the Philippines (**31.9M INR**).
   - **Target Variance**: Most markets fell short of their targets, with Poland showing the highest variance at **-18.13%**.
   - **Total Variance**: The overall variance from the target was **-9.17%**.
-- **PDF Link**: [Insert Link Here](#)
-
+- **PDF Link**: https://github.com/Isaac-fernandes8899/Excel-sales-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
 ---
 
 ## 3. **P&L Statement by Fiscal Year**
@@ -30,7 +29,7 @@ This repository contains detailed sales and financial performance reports for **
   - **Net Sales**: Increased from **87.5M INR** in 2019 to **598.9M INR** in 2021, a **204.5%** growth.
   - **Gross Margin**: Despite rising sales, the Gross Margin percentage decreased slightly from **41.4%** in 2019 to **36.4%** in 2021.
   - **COGS**: Cost of Goods Sold (COGS) grew by **208.6%** from 2020 to 2021.
-- **PDF Link**: [Insert Link Here](#)
+- **PDF Link**:https://github.com/Isaac-fernandes8899/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
 
 ---
 
@@ -40,7 +39,7 @@ This repository contains detailed sales and financial performance reports for **
   - **Highest Gross Margin**: New Zealand had the highest Gross Margin percentage at **48.2%**.
   - **Top Revenue Markets**: India generated the highest revenue (**161.26M USD**), followed by the USA (**87.78M USD**).
   - **Lowest GM%**: Germany had the lowest Gross Margin percentage at **26.2%**.
-- **PDF Link**: [Insert Link Here](#)
+- **PDF Link**:https://github.com/Isaac-fernandes8899/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
 
 ---
 
@@ -50,7 +49,7 @@ This repository contains detailed sales and financial performance reports for **
   - **Quarterly Trends**: Q4 consistently showed the highest sales, with **78.1M INR** in December 2021.
   - **Year-over-Year Growth**: Sales in March 2021 saw an extraordinary **1981.6%** increase compared to March 2020.
   - **Gross Margin Stability**: Gross Margin percentages remained relatively stable, averaging around **36-37%** in 2021.
-- **PDF Link**: [Insert Link Here](#)
+- **PDF Link**:https://github.com/Isaac-fernandes8899/Excel-sales-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
 
 ---
 
