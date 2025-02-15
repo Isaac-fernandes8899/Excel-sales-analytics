@@ -11,7 +11,7 @@ This repository contains detailed sales and financial performance reports for **
   - **Top Performers**: Amazon, Atliq eStore, and AtliQ Exclusive showed significant growth, with Amazon reaching **82.1M INR** in 2021.
   - **Highest Growth**: Nova recorded a staggering **2664.9%** growth in 2021.
   - **Total Sales**: Grand total sales for 2021 were **598.9M INR**, a **304.5%** increase from 2020.
-- **PDF Link**: Customer Performance Report.pdf(#)
+- **PDF Link**: https://github.com/Isaac-fernandes8899/Excel-sales-analytics/commit/84da541063fc67fc8d26bfc4addfab51697e0104#diff-697b5d77072c6387b56cdbf6c443598d4a5455ee22542c6a08cdf63c63699416(#)
 
 ---
 
